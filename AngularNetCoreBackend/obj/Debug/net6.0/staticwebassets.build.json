@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "m7FLmybUXDrAskVjhlFt+0+VZPs7UCi4N6YYtrBxDpE=",
+  "Source": "AngularNetCoreBackend",
+  "BasePath": "_content/AngularNetCoreBackend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
