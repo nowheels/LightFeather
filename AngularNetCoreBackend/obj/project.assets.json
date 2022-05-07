@@ -214,11 +214,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Lee Wheless\\source\\repos\\LightFeather\\AngularNetCoreBackend\\AngularNetCoreBackend.csproj",
+      "projectUniqueName": "D:\\New folder\\LightFeather\\AngularNetCoreBackend\\AngularNetCoreBackend.csproj",
       "projectName": "AngularNetCoreBackend",
-      "projectPath": "C:\\Users\\Lee Wheless\\source\\repos\\LightFeather\\AngularNetCoreBackend\\AngularNetCoreBackend.csproj",
+      "projectPath": "D:\\New folder\\LightFeather\\AngularNetCoreBackend\\AngularNetCoreBackend.csproj",
       "packagesPath": "C:\\Users\\Lee Wheless\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Lee Wheless\\source\\repos\\LightFeather\\AngularNetCoreBackend\\obj\\",
+      "outputPath": "D:\\New folder\\LightFeather\\AngularNetCoreBackend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
